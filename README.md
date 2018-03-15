@@ -1,3 +1,3 @@
 # tmux-config
-Please copy .tmux to ~ through
-cp .tmux ~/
+Please copy .tmux.conf to ~ through
+cp .tmux.conf ~/
